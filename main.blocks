@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="cz3-xy=P%Q8d`)a9kI}N" x="0" y="0"></block><block type="device_show_leds" id="qf;kw3-W00:oXW?}gjm-" disabled-reasons="pxt_automatic_disabled" x="-35" y="12"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field></block><block type="device_forever" id=")`viDXMVaMU_F%7+}D(." x="205" y="0"></block><block type="device_show_leds" id="ZVU;c[Tgp12hwQy.mxLS" disabled-reasons="pxt_automatic_disabled" x="191" y="195"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # # # 
+        . . . . . 
+        . . . . .
+        `</field></block><block type="device_show_leds" id="{u3s*lAaXsn.%:6Akstq" disabled-reasons="pxt_automatic_disabled" x="10" y="219"><field name="LEDS">`
+        . . . . # 
+        . . . # . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field></block></xml>
